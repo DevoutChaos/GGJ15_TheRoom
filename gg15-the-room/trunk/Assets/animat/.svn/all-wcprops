@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/84/trunk/Assets/animat
+END
+open-closed right.anim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/54/trunk/Assets/animat/open-closed%20right.anim
+END
+closed-open right.anim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/54/trunk/Assets/animat/closed-open%20right.anim
+END
+open-closed left.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/34/trunk/Assets/animat/open-closed%20left.anim.meta
+END
+closed-open left.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/34/trunk/Assets/animat/closed-open%20left.anim.meta
+END
+idle open left.anim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/54/trunk/Assets/animat/idle%20open%20left.anim
+END
+turn gun self.anim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/78/trunk/Assets/animat/turn%20gun%20self.anim
+END
+drawer plz work.controller
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/78/trunk/Assets/animat/drawer%20plz%20work.controller
+END
+self idle.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/78/trunk/Assets/animat/self%20idle.anim.meta
+END
+closed-open drawer.anim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/78/trunk/Assets/animat/closed-open%20drawer.anim
+END
+Beretta_M9.controller.meta
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/78/trunk/Assets/animat/Beretta_M9.controller.meta
+END
+idle open right.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/trunk/Assets/animat/idle%20open%20right.anim.meta
+END
+rotate City.anim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/73/trunk/Assets/animat/rotate%20City.anim
+END
+intro idle.anim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/48/trunk/Assets/animat/intro%20idle.anim
+END
+Beretta_M9.controller
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/78/trunk/Assets/animat/Beretta_M9.controller
+END
+standing up.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/Assets/animat/standing%20up.anim.meta
+END
+closed-open drawer.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/74/trunk/Assets/animat/closed-open%20drawer.anim.meta
+END
+exit chair.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/Assets/animat/exit%20chair.anim.meta
+END
+idle closed right.anim
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/54/trunk/Assets/animat/idle%20closed%20right.anim
+END
+textured_city_day_0.controller
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/72/trunk/Assets/animat/textured_city_day_0.controller
+END
+idle closed left.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/trunk/Assets/animat/idle%20closed%20left.anim.meta
+END
+staple 1.anim
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/84/trunk/Assets/animat/staple%201.anim
+END
+turn gun away.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/78/trunk/Assets/animat/turn%20gun%20away.anim.meta
+END
+OVRPlayerController.controller.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/Assets/animat/OVRPlayerController.controller.meta
+END
+standing up.anim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45/trunk/Assets/animat/standing%20up.anim
+END
+rotate City.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/Assets/animat/rotate%20City.anim.meta
+END
+intro idle.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/Assets/animat/intro%20idle.anim.meta
+END
+exit chair.anim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/Assets/animat/exit%20chair.anim
+END
+idle closed left.anim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/54/trunk/Assets/animat/idle%20closed%20left.anim
+END
+stapler textured.controller.meta
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/48/trunk/Assets/animat/stapler%20textured.controller.meta
+END
+closed-open left.anim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/54/trunk/Assets/animat/closed-open%20left.anim
+END
+open-closed left.anim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/54/trunk/Assets/animat/open-closed%20left.anim
+END
+turn gun away.anim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/78/trunk/Assets/animat/turn%20gun%20away.anim
+END
+OVRPlayerController.controller
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/Assets/animat/OVRPlayerController.controller
+END
+self idle.anim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/78/trunk/Assets/animat/self%20idle.anim
+END
+idle closed right.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/34/trunk/Assets/animat/idle%20closed%20right.anim.meta
+END
+closed-open right.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/trunk/Assets/animat/closed-open%20right.anim.meta
+END
+open-closed right.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/trunk/Assets/animat/open-closed%20right.anim.meta
+END
+textured_city_day_0.controller.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/Assets/animat/textured_city_day_0.controller.meta
+END
+idle open right.anim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/54/trunk/Assets/animat/idle%20open%20right.anim
+END
+staple 1.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/48/trunk/Assets/animat/staple%201.anim.meta
+END
+stapler textured.controller
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/48/trunk/Assets/animat/stapler%20textured.controller
+END
+idle open left.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/34/trunk/Assets/animat/idle%20open%20left.anim.meta
+END
+turn gun self.anim.meta
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/78/trunk/Assets/animat/turn%20gun%20self.anim.meta
+END
+drawer plz work.controller.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/74/trunk/Assets/animat/drawer%20plz%20work.controller.meta
+END

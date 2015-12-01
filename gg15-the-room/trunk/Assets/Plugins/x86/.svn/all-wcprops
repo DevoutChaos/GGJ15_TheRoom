@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/25/trunk/Assets/Plugins/x86
+END
+OculusPlugin.dll.signature
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/25/trunk/Assets/Plugins/x86/OculusPlugin.dll.signature
+END
+OculusPlugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7/trunk/Assets/Plugins/x86/OculusPlugin.dll
+END
+donotdelete.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/trunk/Assets/Plugins/x86/donotdelete.txt
+END
+OculusPlugin.dll.signature.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/Assets/Plugins/x86/OculusPlugin.dll.signature.meta
+END
+OculusPlugin.dll.meta
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/Assets/Plugins/x86/OculusPlugin.dll.meta
+END
+donotdelete.txt.meta
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/Assets/Plugins/x86/donotdelete.txt.meta
+END

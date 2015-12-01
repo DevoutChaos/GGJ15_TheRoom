@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/87/trunk/Oculus%20EXEs
+END
+test.exe
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/36/trunk/Oculus%20EXEs/test.exe
+END
+test_DirectToRift.exe
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/36/trunk/Oculus%20EXEs/test_DirectToRift.exe
+END
+Main.exe
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/62/trunk/Oculus%20EXEs/Main.exe
+END
+Oclus.exe
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus.exe
+END
+Main_DirectToRift.exe
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/62/trunk/Oculus%20EXEs/Main_DirectToRift.exe
+END
+Oclus_DirectToRift.exe
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus_DirectToRift.exe
+END

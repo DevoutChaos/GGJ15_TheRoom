@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus_Data/Managed
+END
+Assembly-CSharp.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus_Data/Managed/Assembly-CSharp.dll
+END
+Mono.Security.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus_Data/Managed/Mono.Security.dll
+END
+UnityEngine.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus_Data/Managed/UnityEngine.dll
+END
+Boo.Lang.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus_Data/Managed/Boo.Lang.dll
+END
+System.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus_Data/Managed/System.dll
+END
+Assembly-UnityScript-firstpass.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus_Data/Managed/Assembly-UnityScript-firstpass.dll
+END
+Assembly-CSharp-firstpass.dll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus_Data/Managed/Assembly-CSharp-firstpass.dll
+END
+mscorlib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus_Data/Managed/mscorlib.dll
+END
+UnityEngine.UI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus_Data/Managed/UnityEngine.UI.dll
+END
+System.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/32/trunk/Oculus%20EXEs/Oclus_Data/Managed/System.Core.dll
+END

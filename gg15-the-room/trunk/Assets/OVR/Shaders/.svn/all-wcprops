@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7/trunk/Assets/OVR/Shaders
+END
+TextShader3D.shader
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/Assets/OVR/Shaders/TextShader3D.shader
+END
+OVRGUIShader.shader
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/Assets/OVR/Shaders/OVRGUIShader.shader
+END
+TextShader3D.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/Assets/OVR/Shaders/TextShader3D.shader.meta
+END
+OVRGUIShader.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/Assets/OVR/Shaders/OVRGUIShader.shader.meta
+END

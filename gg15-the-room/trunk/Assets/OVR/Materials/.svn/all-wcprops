@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/7/trunk/Assets/OVR/Materials
+END
+GUIHUD.mat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7/trunk/Assets/OVR/Materials/GUIHUD.mat
+END
+MagHUDRef.mat.meta
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/Assets/OVR/Materials/MagHUDRef.mat.meta
+END
+TextShader3D.mat.meta
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/Assets/OVR/Materials/TextShader3D.mat.meta
+END
+MagHUDTracked.mat.meta
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/Assets/OVR/Materials/MagHUDTracked.mat.meta
+END
+GUIHUD.mat.meta
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7/trunk/Assets/OVR/Materials/GUIHUD.mat.meta
+END
+CubeMaterial.mat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/Assets/OVR/Materials/CubeMaterial.mat
+END
+MagHUDRef.mat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/trunk/Assets/OVR/Materials/MagHUDRef.mat
+END
+CubeMaterial.mat.meta
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/Assets/OVR/Materials/CubeMaterial.mat.meta
+END
+TextShader3D.mat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/Assets/OVR/Materials/TextShader3D.mat
+END
+MagHUDTracked.mat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/Assets/OVR/Materials/MagHUDTracked.mat
+END

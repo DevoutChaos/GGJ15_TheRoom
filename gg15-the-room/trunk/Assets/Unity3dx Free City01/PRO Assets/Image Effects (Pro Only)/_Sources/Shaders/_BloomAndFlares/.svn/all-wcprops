@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares
+END
+SeparableBlurPlus.shader
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/SeparableBlurPlus.shader
+END
+BlendOneOne.shader
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BlendOneOne.shader
+END
+Blend.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/Blend.shader.meta
+END
+VignetteShader.shader
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/VignetteShader.shader
+END
+SeparableBlurPlus.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/SeparableBlurPlus.shader.meta
+END
+BrightPassFilter.shader
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter.shader
+END
+BlendOneOne.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BlendOneOne.shader.meta
+END
+MultiPassHollywoodFlares.shader
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader
+END
+LensFlareCreate.shader
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/LensFlareCreate.shader
+END
+VignetteShader.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/VignetteShader.shader.meta
+END
+BrightPassFilter.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter.shader.meta
+END
+Blend.shader
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/Blend.shader
+END
+MultiPassHollywoodFlares.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader.meta
+END
+LensFlareCreate.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/67/trunk/Assets/Unity3dx%20Free%20City01/PRO%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/LensFlareCreate.shader.meta
+END

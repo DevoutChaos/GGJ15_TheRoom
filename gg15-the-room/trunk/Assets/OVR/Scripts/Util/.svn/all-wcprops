@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util
+END
+OVRGamepadController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRGamepadController.cs.meta
+END
+OVRCrosshair.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRCrosshair.cs
+END
+OVRMainMenu.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRMainMenu.cs.meta
+END
+OVRUGUI.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRUGUI.cs.meta
+END
+OVRPlayerController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRPlayerController.cs
+END
+OVRGamepadController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRGamepadController.cs
+END
+OVRUGUI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRUGUI.cs
+END
+OVRGridCube.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRGridCube.cs.meta
+END
+OVRGUI.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRGUI.cs.meta
+END
+OVRMainMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRMainMenu.cs
+END
+OVRVisionGuide.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRVisionGuide.cs.meta
+END
+OVRCrosshair.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRCrosshair.cs.meta
+END
+OVRGUI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRGUI.cs
+END
+OVRGridCube.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRGridCube.cs
+END
+OVRPlayerController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRPlayerController.cs.meta
+END
+OVRVisionGuide.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/Assets/OVR/Scripts/Util/OVRVisionGuide.cs
+END
